@@ -18,7 +18,11 @@ const App: React.FC = () => {
   }, [count, min, max]);
 
   const increment = () => setCount((prevCount) => prevCount + 1);
-  const decrement = () => setCount((prevCount) => prevCount - 1);
+  const decrement = () => {
+    if (count > 0) {
+      setCount((prevCount) => prevCount - 1);
+    }
+  };
   const reset = () => setCount(0);
 
   const handleMinChange = (event: React.ChangeEvent<HTMLInputElement>) => {
