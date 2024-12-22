@@ -37,7 +37,7 @@ The project is deployed at the following link: [Deployed Project](https://your-d
 - *TailwindCSS*: For modern and responsive styling.
 
 ## Project Structure
-
+```
 ├── public
 │   └── preview.png       # Project preview image
 ├── src
@@ -48,7 +48,7 @@ The project is deployed at the following link: [Deployed Project](https://your-d
 │   └── main.tsx          # Main entry point
 ├── tailwind.config.js    # TailwindCSS configuration
 └── vite.config.ts        # Vite configuration
-
+```
 
 ## Proposed Improvements
 1. Add unit tests using tools like Jest or React Testing Library.
