@@ -10,21 +10,6 @@ Follow these steps to run the project:
 
 1. **Clone the repository**:
    ```bash
-   git clone <REPOSITORY_URL>
-   cd <REPOSITORY_NAME>
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   npm install
-   ```
-
-3. **Start the development server**:
-   ```bash
-   npm run dev
-   ```
-1. **Clone the repository**:
-   ```bash
    git clone git@github.com:Nanakuh/react_counter.git
    cd react_counter
    ```
