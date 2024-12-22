@@ -29,7 +29,7 @@ Follow these steps to run the project:
    Copy and paste the URL provided by the server (default: http://localhost:5173).
 
 ## Deployment
-The project is deployed at the following link: [Deployed Project](https://your-deployment-link.com)
+The project is deployed at the following link: [https://react-counter.nanakuh.com](https://react-counter.nanakuh.com)
 
 ## Technologies
 - *Vite*: For a fast development environment.
