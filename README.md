@@ -8,20 +8,36 @@ This project is a basic React application built with Vite and styled with Tailwi
 ## Installation
 Follow these steps to run the project:
 
-1. *Clone the repository*:
-   bash
+1. **Clone the repository**:
+   ```bash
+   git clone <REPOSITORY_URL>
+   cd <REPOSITORY_NAME>
+   ```
+
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**:
+   ```bash
+   npm run dev
+   ```
+1. **Clone the repository**:
+   ```bash
    git clone git@github.com:Nanakuh/react_counter.git
    cd react_counter
-   
+   ```
 
-2. *Install dependencies*:
-   bash
+2. **Install dependencies**:
+   ```bash
    npm install
-   
+   ```
 
-3. *Start the development server*:
-   bash
+3. **Start the development server**:
+   ```bash
    npm run dev
+   ```
    
 
 4. *Open in the browser*:
